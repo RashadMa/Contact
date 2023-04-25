@@ -1,0 +1,19 @@
+{
+  "name": "contact",
+  "version": "1.0.0",
+  "description": "Contact",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "dev": "ts-node src/index.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/readline-sync": "^1.4.4"
+  },
+  "devDependencies": {
+    "@types/node": "^18.16.0"
+  }
+}
